@@ -1,6 +1,6 @@
 <h1>Hi there 📝</h1> 
 
-<h2> I'm Igor Raphael, I'm a front-end programmer, I'm currently learning and creating projects with:"<h2/>
+<h2><bold>I'm Igor Raphael, I'm a front-end programmer, I'm currently learning and creating projects with:</bold><h2/>
 <br/>
 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -10,7 +10,7 @@
 - <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 <br/>
 
-<h3>Connect with me:</h3> 
+<h3><bold>Connect with me:</bold></h3> 
 
 <p>
 <a href="https://www.instagram.com/diaas_07/">
