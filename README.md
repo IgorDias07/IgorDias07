@@ -28,3 +28,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorDias07)](https://github.com/anuraghazra/github-readme-stats)
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="igor-raphael-b70810314" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/igor-raphael-b70810314?trk=profile-badge">Igor Raphael</a></div>
+              
+
