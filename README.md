@@ -1,6 +1,6 @@
 <h1>Hi there 📝</h1> 
 
-<h2><bold>I'm Igor Raphael, I'm a software engineering student, I'm currently learning and creating projects with:</bold><h2/>
+<h2><bold>I'm Igor Dias, I'm a software engineering student, I'm currently learning and creating projects with:</bold><h2/>
 <br/>
   
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
