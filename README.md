@@ -2,7 +2,8 @@
 
 <h2><bold>I'm Igor Raphael, I'm a software engineering student, I'm currently learning and creating projects with:</bold><h2/>
 <br/>
-
+  
+- <img src="![Logo do Python](link-da-sua-imagem.png)"/>
 - <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 - <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 <br/>
